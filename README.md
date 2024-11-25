@@ -24,7 +24,7 @@ Este repositório contém o código-fonte do meu portfólio pessoal, criado com 
 - **Shields.io**: Ícones para estilização e organização do conteúdo.
 ## Como executar o projeto
 
-### Acesse o link: <link>
+### Acesse por Aqui: [link](https://nanashii76.github.io/curriculo/)
 
 ### Para rodar localmente:
 
