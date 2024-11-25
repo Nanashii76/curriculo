@@ -1,3 +1,4 @@
+
 ## ![Programação Competitiva](https://img.shields.io/badge/Programação%20Competitiva-blue?style=for-the-badge)
 Repositório com teoria e questões resolvidas em contests de programação.  
 🔗 [Acesse o repositório](https://github.com/Nanashii76/comp_prog)
@@ -25,3 +26,15 @@ Bot para buscar músicas no YouTube e tocá-las em chamadas de voz no Discord.
 ## ![DontDie](https://img.shields.io/badge/DontDie-red?style=for-the-badge)
 Jogo criado no curso de Orientação a Objetos (2023.1), ainda em desenvolvimento.  
 🔗 [Acesse o repositório](https://github.com/Nanashii76/DontDie)
+
+---
+
+## ![Unimancer](https://img.shields.io/badge/Unimancer-purple?style=for-the-badge)
+MUD offline baseado em texto com integração ao PostgreSQL.  
+🔗 [Acesse o repositório](https://github.com/SBD1/2024.2-unimancer)
+
+---
+
+## ![Auto Rei Tintas](https://img.shields.io/badge/Auto%20Rei%20Tintas-cyan?style=for-the-badge)
+E-commerce para venda de tintas e acessórios decorativos para automóveis, com sistema de catálogo e carrinho.  
+🔗 [Acesse o repositório](https://github.com/mdsreq-fga-unb/2024.2-T03-AutoReiTintas)
