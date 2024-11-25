@@ -1,4 +1,4 @@
-# Portfólio - Paulo Lamounier
+# Currículo - Paulo Lamounier
 
 Este repositório contém o código-fonte do meu portfólio pessoal, criado com MkDocs e baseado no tema Material for MkDocs. O objetivo é apresentar informações sobre minha trajetória acadêmica, habilidades, projetos e experiências profissionais de forma organizada e acessível.
 
