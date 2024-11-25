@@ -1,4 +1,4 @@
-# Portfólio - Paulo Lamounier
+# Currículo - Paulo Lamounier
 
 Este repositório contém o código-fonte do meu portfólio pessoal, criado com MkDocs e baseado no tema Material for MkDocs. O objetivo é apresentar informações sobre minha trajetória acadêmica, habilidades, projetos e experiências profissionais de forma organizada e acessível.
 
@@ -24,7 +24,7 @@ Este repositório contém o código-fonte do meu portfólio pessoal, criado com 
 - **Shields.io**: Ícones para estilização e organização do conteúdo.
 ## Como executar o projeto
 
-### Acesse o link: <link>
+### Acesse por Aqui: [link](https://nanashii76.github.io/curriculo/)
 
 ### Para rodar localmente:
 
